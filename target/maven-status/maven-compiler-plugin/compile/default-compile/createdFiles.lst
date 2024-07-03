@@ -1,0 +1,6 @@
+com\WsServer.class
+com\handler\MessageHandler.class
+com\WsServerApplication.class
+com\WsServerConfig.class
+com\handler\MessageHandlerImpl.class
+com\WsServerController.class
